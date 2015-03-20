@@ -71,6 +71,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 
 == Changelog ==
+= 1.0.3 =
+* Removed fallback video files to reduce total size of plugin
+
 = 1.0.2 =
 * Fixed bugs
 
@@ -81,6 +84,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 * Initial Commit
 
 == Upgrade Notice ==
+= 1.0.3 =
+* Removed fallback video files to reduce total size of plugin
+
 = 1.0.2 =
 * Fixed bugs
 
