@@ -275,7 +275,7 @@ if (!class_exists('admin_folder_Redux_Framework_config')) {
                 		//'options'   => Array(
                 		//                'img_name' => 'img_path'
                 		//             )
-                		'default' => 'Footballfield.png',
+                		'default' => 'Park2.png',
                 	),
                 	array(
                 		'id'        => 'social_check',
@@ -293,7 +293,7 @@ if (!class_exists('admin_folder_Redux_Framework_config')) {
                 		
                 		//See how std has changed? you also don't need to specify opts that are 0.
                 		'default'   => array(
-                				'twitter' => '1',
+                				'twitter' => '0',
                 				'facebook' => '0',
                 				'google' => '0'
                 		)

@@ -93,8 +93,7 @@ function contrix_csp_head() {
 		background-position: center;
 		height: 100%;
 		min-height: 480px;
-		cursor: drag;
-		cursor: -webkit-grab;
+		cursor: pointer;
 
 	}
 	div.vjs-control,div.vis-caption-settings,div.vjs-tracksettings,div.vjs-tracksettings-controls{
