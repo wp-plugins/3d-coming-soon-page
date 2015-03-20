@@ -37,7 +37,7 @@ We support all modern browsers and provide fallbacks using video or image for ol
 = Using The WordPress Dashboard =
 
 1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for ‘3D Coming Soon'
+2. Search for '3D Coming Soon'
 3. Click 'Install Now'
 4. Activate the plugin on the Plugin dashboard
 
@@ -71,6 +71,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 
 == Changelog ==
+= 1.0.2 =
+* Fixed bugs
+
 = 1.0.1 =
 * Fixed bugs
 
@@ -78,7 +81,11 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 * Initial Commit
 
 == Upgrade Notice ==
+= 1.0.2 =
+* Fixed bugs
+
 = 1.0.1 =
 * Fixed bugs
+
 = 1.0.0 =
 Initial Commit
