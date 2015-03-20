@@ -1,6 +1,4 @@
 <?php
 $contrix_csp_settings_defaults = array (
-  'contrix_csp_settings_content' => 'a:9:{s:6:"status";s:1:"0";s:4:"logo";s:0:"";s:8:"headline";s:0:"";s:11:"description";s:0:"";s:13:"footer_credit";s:1:"0";s:7:"favicon";s:0:"";s:9:"seo_title";s:0:"";s:15:"seo_description";s:0:"";s:12:"ga_analytics";s:0:"";}',
-  'contrix_csp_settings_design' => 'a:12:{s:8:"bg_color";s:7:"#fafafa";s:8:"bg_image";s:0:"";s:8:"bg_cover";a:1:{i:0;s:1:"1";}s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:8:"left top";s:13:"bg_attahcment";s:5:"fixed";s:9:"max_width";s:0:"";s:10:"text_color";s:7:"#666666";s:10:"link_color";s:7:"#27AE60";s:14:"headline_color";s:7:"#444444";s:9:"text_font";s:6:"_arial";s:10:"custom_css";s:0:"";}',
-  'contrix_csp_settings_advanced' => 'a:2:{s:14:"header_scripts";s:0:"";s:14:"footer_scripts";s:0:"";}',
+  'contrix_csp_settings' => 'a:12:{s:8:"last_tab";s:1:"0";s:6:"status";s:1:"0";s:4:"logo";a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}s:8:"headline";s:11:"Coming Soon";s:11:"description";s:0:"";s:5:"theme";s:111:"http://localhost/wordpress/wp-content/plugins/contrix-3d-coming-soon//themes/default/images/thumbnail/Park2.png";s:12:"social_check";a:3:{s:7:"twitter";s:1:"1";s:8:"facebook";s:1:"1";s:6:"google";s:1:"1";}s:9:"social_on";s:1:"1";s:12:"countdown_on";s:1:"1";s:7:"enddate";s:0:"";s:7:"endhour";s:2:"00";s:9:"endminute";s:2:"00";}'
 );

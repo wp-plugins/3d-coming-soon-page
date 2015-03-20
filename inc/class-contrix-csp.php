@@ -198,6 +198,7 @@ class CONTRIX_CSP{
             '{Description}' => contrix_csp_description(),
         	'{Countdown}' => contrix_csp_countdown(),
         	'{CubePath}' => contrix_csp_cube_path(),
+        	'{PluginPath}' => CONTRIX_CSP_PLUGIN_URL,
         	'{Social}' => contrix_csp_social(),
         	'{Scripts}' => contrix_csp_scripts(),
             );

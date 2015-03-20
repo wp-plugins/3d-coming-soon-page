@@ -11,7 +11,7 @@
 </head>
 <body >
 
-	<div class="site-wrapper cube-path" data-cube-path='{CubePath}'>
+	<div class="site-wrapper cube-path plugin-path" data-cube-path='{CubePath}' data-plugin-path='{PluginPath}'>
       <div class="site-wrapper-inner">
         <div class="cover-container">
           <div class="masthead clearfix">

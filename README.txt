@@ -65,15 +65,20 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 == Screenshots ==
 
-1. Theme - Football field
-2. Theme - Park1
-3. Theme - Park2
+1. Theme - Park1
+2. Theme - Football field
+
 
 
 == Changelog ==
+= 1.0.1 =
+* Fixed bugs
+
 = 1.0.0 =
 * Initial Commit
 
 == Upgrade Notice ==
+= 1.0.1 =
+* Fixed bugs
 = 1.0.0 =
 Initial Commit
