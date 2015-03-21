@@ -17,7 +17,7 @@ The 3D Coming Soon Page, Under Construction Mode plugin for WordPress.
 Create simple 3D Coming Soon  page.
 Work on your site, while visitors experience the newest web 3D never seen before. 
 
-We support all modern browsers and provide fallbacks using video or image for old browsers such as IE 10, 9 , 8.
+We support all modern browsers and provide fallbacks using image for old browsers such as IE 10, 9 , 8.
 
 *   [View a 3D Coming Soon Live Demo &raquo;](http://demo.contrixlab.com/)
 
@@ -71,6 +71,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 
 == Changelog ==
+= 1.0.5 =
+* Fixed bugs
+
 = 1.0.4 =
 * Fixed bugs
 
@@ -87,6 +90,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 * Initial Commit
 
 == Upgrade Notice ==
+= 1.0.5 =
+* Fixed bugs
+
 = 1.0.4 =
 * Fixed bugs
 
