@@ -25,7 +25,9 @@ class CONTRIX_CSP{
             }
 
             // Add this script globally so we can view the notification across the admin area
-            add_action( 'admin_enqueue_scripts', array(&$this,'add_scripts') );
+            add_action('admin_enqueue_scripts', array(&$this,'add_scripts') );
+            add_action('redux/options/contrix_csp/saved', array(&$this,'report_usage') );
+            
     }
 
     /**
@@ -206,5 +208,25 @@ class CONTRIX_CSP{
         exit();
 
     }
+    /**
+     * Report activate / deactive to contrixlab
+     */
+    function report_usage() {
+    	
+    	$options = get_option( 'contrix_csp' );
+    	$siteUrl = get_site_url(); 
+    	$url = 'http://csp.contrixlab.com:8080/!/csp/usage';
+    	try {
+    		$response=wp_remote_post( $url, array(
+    					'timeout' => 10,
+						'method' => 'POST',
+    					'body' => array('site' => $siteUrl,'status' =>$options['status'])
+			 ) );
+    		
+    	}catch(Exception $e){
+    		
+    	}
+    }
+    
 
 }
