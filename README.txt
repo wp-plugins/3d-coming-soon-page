@@ -71,6 +71,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 
 == Changelog ==
+= 1.1 =
+* Add usage report function
+
 = 1.0.5 =
 * Fixed bugs
 
@@ -90,6 +93,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 * Initial Commit
 
 == Upgrade Notice ==
+= 1.1 =
+* Add usage report function
+
 = 1.0.5 =
 * Fixed bugs
 

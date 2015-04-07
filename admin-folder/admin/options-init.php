@@ -194,7 +194,7 @@ if (!class_exists('admin_folder_Redux_Framework_config')) {
                 <div>
                     <ul class="plugin-info">
                         <li><?php printf(__('By %s', 'coming-soon'), 'Contrixlab, Inc') ?></li>
-                        <li><?php printf(__('Version %s', 'coming-soon'), '1.0') ?></li>
+                        <li><?php printf(__('Version %s', 'coming-soon'), '1.1') ?></li>
                       
                     </ul>
                     
